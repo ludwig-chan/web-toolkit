@@ -1,11 +1,11 @@
-# ludwig-toolkit
+# web-toolkit
 
 我的个人提效工具包，包含常用组件和工具函数。
 
 ## 安装
 
 ```bash
-npm install ludwig-toolkit
+npm install web-toolkit
 ```
 
 ## 使用
@@ -15,7 +15,7 @@ npm install ludwig-toolkit
 格式化日期时间为指定格式的字符串。
 
 ```javascript
-const { formatDate } = require('ludwig-toolkit');
+const { formatDate } = require('web-toolkit');
 
 // 格式化当前时间
 console.log(formatDate(new Date()));

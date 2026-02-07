@@ -1,5 +1,5 @@
 {
-  "name": "ludwig-toolkit",
+  "name": "web-toolkit",
   "version": "0.1.0",
   "description": "我的个人提效工具包，包含常用组件和工具函数",
   "main": "src/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ludwig-chan/ludwig-toolkit.git"
+    "url": "git+https://github.com/ludwig-chan/web-toolkit.git"
   },
   "keywords": [
     "toolkit",
@@ -20,7 +20,7 @@
   "author": "ludwig-chan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ludwig-chan/ludwig-toolkit/issues"
+    "url": "https://github.com/ludwig-chan/web-toolkit/issues"
   },
-  "homepage": "https://github.com/ludwig-chan/ludwig-toolkit#readme"
+  "homepage": "https://github.com/ludwig-chan/web-toolkit#readme"
 }
