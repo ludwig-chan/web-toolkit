@@ -1,6 +1,9 @@
 {
-  "name": "web-toolkit",
+  "name": "@edwardchan/web-toolkit",
   "version": "0.1.0",
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "我的个人提效工具包，包含常用组件和工具函数",
   "main": "src/index.js",
   "scripts": {
